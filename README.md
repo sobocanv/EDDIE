@@ -36,7 +36,7 @@ The data was scraped from the r/Slovenia subreddit on December 5, 2023. The corp
 
 ### Methodology
 
-Web crawling was accomplished using the Parsehub scraping software, focusing on the old Reddit site (accessible at: [http://old.reddit.com]) and filtering through the top posts from Novermber 5 to December 5, 2023.
+Web crawling was accomplished using the Parsehub scraping software, focusing on the old Reddit site (accessible at: [http://old.reddit.com](http://old.reddit.com)) and filtering through the top posts from Novermber 5 to December 5, 2023.
 
 ## Folder Structure
 
