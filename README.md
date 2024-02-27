@@ -40,7 +40,7 @@ Web crawling was accomplished using the Parsehub scraping software, focusing on 
 
 ## Folder Structure
 
-The publicly available .vert file forming the corpus basis underwent preprocessing. Text splitting and anonymization of identifiable user data in metadata were performed using Python's regular expressions module. The CLASSLA natural processing pipeline's standard language model processed the text. The .vert file is structured with <doc> type documents, each encompassing sentences marked with <s>...</s>. Relevant metadata is included in each <doc> structure. Punctuation tokens not preceded by a space are marked with the special glue tag </g>.
+The publicly available .vert file forming the corpus basis underwent preprocessing. Text splitting and anonymization of identifiable user data in metadata were performed using Python's regular expressions module. The CLASSLA natural processing pipeline's standard language model processed the text. The .vert file is structured with ''<doc>'' type documents, each encompassing sentences marked with ''<s>...</s>''. Relevant metadata is included in each ''<doc>'' structure. Punctuation tokens not preceded by a space are marked with the special glue tag ''</g>''.
 
 ## Usage
 
