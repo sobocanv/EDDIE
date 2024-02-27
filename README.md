@@ -10,11 +10,12 @@ Welcome to the EDDIE repository, a linguistic corpus built from content gathered
 2. [License](#license)
 3. [Contributing](#contributing)
 4. [Languages](#languages)
-5. [Data Sources](#data-sources)
-6. [Collection Procedure](#collection-procedure)
-7. [Folder Structure](#folder-structure)
-8. [Usage](#usage)
-9. [Acknowledgments](#acknowledgments)
+5. [Collection Procedure](#collection-procedure)
+6. [Data Sources](#data-sources)
+7. [Methodology](#methodology)
+8. [Folder Structure](#folder-structure)
+9. [Usage](#usage)
+10. [Acknowledgments](#acknowledgments)
 
 ## License
 
