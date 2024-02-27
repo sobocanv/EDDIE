@@ -1,0 +1,39 @@
+DOCSTRUCTURE "doc"
+ENCODING "UTF-8"
+INFO ""
+LANGUAGE "Slovenian"
+LPOSLIST ",noun,-n,verb,-v,adjective,-a,adverb,-r,pronoun,-p,adposition,-s,conjunction,-c,particle,-q,interjection,-i,numeral,-m,abbreviation,-y,residual,-x"
+NAME "name_of_corpus"
+PATH "path_to_the_corpus"
+REFCORPUS "sltenten15_tt2_1"
+TAGSETDOC "https://www.sketchengine.eu/slovene-tagset-multext-east-v4/"
+TERMBASE "none"
+TERMDEF ""
+VERTICAL "| ca_getvertical 'path_to_the_vert_file' 'document'"
+WPOSLIST ",noun,N.*,verb,V.*,adjective,A.*,adverb,R.*,pronoun,P.*,adposition,S.*,conjunction,C.*,particle,Q.*,interjection,I.*,numeral,M.*,abbreviation,Y.*,residual,X.*"
+WSATTR "lempos"
+WSBASE "none"
+WSDEF ""
+WSMINHITS ""
+ATTRIBUTE "word" {
+    MAPTO "lempos"
+}
+
+ATTRIBUTE "lemma"{
+MAPTO "lemma_lc"
+MAPTO "gender_lemma"
+}
+
+ATTRIBUTE "tag"
+ATTRIBUTE "xpos"
+ATTRIBUTE "feats"
+
+ATTRIBUTE "head"
+
+ATTRIBUTE "deprel"
+
+ATTRIBUTE "nic"
+ATTRIBUTE "misc"
+
+ATTRIBUTE "lempos"
+ATTRIBUTE "lc"
