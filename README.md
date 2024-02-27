@@ -1,8 +1,8 @@
-# Eddie
+# EDDIE
 
 ## Overview
 
-Welcome to the Eddie repository, a linguistic corpus built from content gathered on the r/Slovenia subreddit. This corpus is tailored for NLP research, aiming to provide valuable insights into the language usage of Slovenian Reddit users.
+Welcome to the EDDIE repository, a linguistic corpus built from content gathered on the r/Slovenia subreddit. This corpus is tailored for NLP research, aiming to provide valuable insights into the language usage of Slovenian Reddit users.
 
 ## Table of Contents
 
@@ -15,7 +15,6 @@ Welcome to the Eddie repository, a linguistic corpus built from content gathered
 7. [Folder Structure](#folder-structure)
 8. [Usage](#usage)
 9. [Acknowledgments](#acknowledgments)
-10. [Contact](#contact)
 
 ## License
 
