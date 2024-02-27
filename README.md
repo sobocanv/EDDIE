@@ -19,7 +19,7 @@ Welcome to the EDDIE repository, a linguistic corpus built from content gathered
 
 ## License
 
-This corpus is licensed under the GNU General Public Licence v3.0. Please refer to the [LICENSE](LICENSE.md) file for more information.
+This corpus is licensed under the GNU General Public Licence v3.0. Please refer to the [LICENSE](LICENSE.md) for more information.
 
 ## Contributing
 
