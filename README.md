@@ -31,7 +31,7 @@ The goal of this repository is to construct a representative corpus reflecting t
 
 ## Collection Procedure
 
-### Data Source
+### Data Sources
 
 The data was scraped from the r/Slovenia subreddit on December 5, 2023. The corpus includes around 137,637 words (218,421 tokens), making for a substantial volume of data relative to the subreddit's size (around 80,000 members) which can be considered representative.
 
